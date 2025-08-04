@@ -1,3 +1,6 @@
 Usuario 1
 Raquel Panambi Torres Otazú
 CI 5777063
+Usuario 2
+Martin Leonardo Cano Gonzalez  
+CI 4454105
